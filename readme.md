@@ -8,6 +8,8 @@ Clone the repository, then run:
 
 > npm install
 
+and then:
+
 > npm run start
 
 And thats it.
