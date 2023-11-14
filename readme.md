@@ -96,7 +96,9 @@ Este projeto foi desenvolvido por [Edison Matos](https://github.com/EdisonMatos)
 
 ![Edison Matos](https://avatars.githubusercontent.com/u/17342047?s=200)
 
-[Edison Matos](https://github.com/EdisonMatos) é um entusiasta da tecnologia e desenvolvedor apaixonado por criar soluções inovadoras.
+[Edison Matos](https://github.com/EdisonMatos) é um entusiasta da tecnologia, desenvolvedor backend de software e apaixonado por criar soluções inovadoras.
+
+Saiba mais sobre no GitHub para descobrir mais projetos e colaborações.
 
 <br>
 
