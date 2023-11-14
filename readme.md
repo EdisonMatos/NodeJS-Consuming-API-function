@@ -1,4 +1,4 @@
-# 🚀 Node.js - Consuming API Function
+# 🚀 Node.js Consuming API Function
 
 ## 📜 Descrição
 
