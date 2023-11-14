@@ -10,6 +10,7 @@ Este repositório contém um projeto simples em Node.js que consome uma API para
 
 - **Node.js:** Ambiente de execução para JavaScript no servidor.
 - **Nodemon:** Ferramenta para reiniciar automaticamente o servidor em ambiente de desenvolvimento.
+- **Padrão de arquitetura:** Padrão livre.
 
 <br>
 
